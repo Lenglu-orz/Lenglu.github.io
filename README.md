@@ -1,2 +1,2 @@
-# Lenglu.github.io
-Personal Profile
+# Haoran Yang
+mainpage
